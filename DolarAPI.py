@@ -49,7 +49,7 @@ def enviar_correo():
         Compra: ${compra}
         Venta: ${venta}
 
-        Saludos
+        Saludos!
         """
 
         html_body = f"""
